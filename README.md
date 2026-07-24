@@ -16,7 +16,6 @@ Quick Start
 cp .env.example .env.local
 # then edit .env.local and set REACT_APP_WEATHER_API_KEY
 ```
-
 2. Install and run:
 
 ```bash
